@@ -5,6 +5,9 @@ Today the weather is very *gloomy* and _rainy_   `Mohsam`
 
 I feel like **felicia** today  `Kicker`
 
+## statement
+I am a wolf not a ~~lion~~
+
 ## Below are the checklist for the day  `workflow`
 + follow the money
 + gain some tech skills
@@ -40,7 +43,52 @@ resource containerappjob 'Microsoft.App/managedEnvironments@2022-11-01-preview' 
   }
 }
 ```
- 
+## Declaring some footnotes
+[^1] and [^2]
+
+## Dish of the day `table`
+
+|Monday|Tuesday|wednesday|Thursday|Friday|Saturday|Sunday|
+|------|-------|---------|--------|------|--------|------|
+|Paneer|Alu dam|Pulao    |Mix veg |chicken|Tandori|Luchi |
+
+## To do List `task list`
+- [x] studied
+  - [] Container
+  - [X] GHF
+
+## Summary of the Day `collapsed`
+<Details>
+<Summary>
+The day was very fruitful as I stidied a new language.
+<summary>
+I also did the practicle and pushed it to my repo.
+</summary>
+</Summary>
+</Details>
+
+## Animation of the day  `emojies`
+🫀
+☁️
+🇮🇳
+🍭
+
+## Don't `Alert`
+>[!warning]
+>Don't break my heart
+
+>[!note]
+>blind love
+
+## Flow chart `mermaid`
+``` mermaid
+   graph TD
+    A[Start User Story on Container App Job] -->|1st November 2024| B[Complete Development Phase]
+    B -->|23rd November 2024| C[Start DevOps Phase]
+    C -->|25th November 2024| D[Complete DevOps Phase]
+    D -->|30th November 2024| E[End of Job]
+```
+
 ## Favorite social media platform
 [ X / Twitter ](https://x.com/home)
 
