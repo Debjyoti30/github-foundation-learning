@@ -9,7 +9,7 @@ assignees: Debjyoti30
 
 # Standard Issue Template `Author` - `Debjyoti`
 
-:Heart
+:heart
 
 ## Rules to be Followed 
 + Mention the Course title in Each Beginning Letter as Capital.
